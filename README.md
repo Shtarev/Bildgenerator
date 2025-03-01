@@ -1,4 +1,4 @@
-* Aufgabe „Bildgenerator“
+# Aufgabe „Bildgenerator“
 ---
 
 - Ein Kunde möchte in seinem Online-Shop Sweatjacken in 25 verschiedenen Farben
@@ -19,7 +19,7 @@ Produktfotos generiert.
 
 ---
 
-*** Farbcodes:
+### Farbcodes:
 - Schneeweiß #FFFAFA
 - Elfenbein #FFFFF0
 - Sandbeige #D2B48C
